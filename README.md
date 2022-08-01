@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paolojosol
 - 👀 I’m interested in becoming a web developer and a blockchain/software engineer. 
-- 🌱 I’m currently learning Javascript PHP and SQL
+- 🌱 I’m currently learning Python Javascript PHP and mySQL
 - 💞️ I’m looking to collaborate on any beginner projects. I want to build my developer skills
 - 📫 How to reach me: send me a DM or email at paolojosol@yahoo.com
 
